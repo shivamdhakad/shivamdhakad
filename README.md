@@ -8,5 +8,5 @@
 - 👌 I’m proficient in: Python, C++, ROS, OOPs, Matlab
 - 📫 Email: dhakadshivamsd@gmail.com
 
-- Design Portfolio: https://drive.google.com/file/d/1DFsD1eo1R6K0Kdz9MzY9EwcphDHKTO1m/view?usp=drive_link
+- Mechanical Design Portfolio: https://drive.google.com/file/d/1DFsD1eo1R6K0Kdz9MzY9EwcphDHKTO1m/view?usp=drive_link
 
